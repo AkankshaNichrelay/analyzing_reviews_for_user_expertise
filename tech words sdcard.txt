@@ -1,0 +1,55 @@
+portable flash memory,
+ speed, 
+ capacity,
+ expand storage,
+
+SDSC, SDHC, SDXC, SDIO mm
+miniSD, miniSDHC, miniSDIO
+microSD, microSDHC, microSDXC
+
+128MB ,
+specifications
+
+2GB, transfer rate, 25MB/s, FAT12, FAT16, FAT16B ,file systems
+4GB, 32GB, transfer rates,  50MB/s , 150MB/s, FAT32, exFAT
+
+Speed Class,	Seq. Writes,	UHS,  Video Speed Class,	Ideal Workload
+Class 2 (C2)	2MB/s	 	 	recording,  playback,
+Class 4 (C4)	4MB/s	 	 	720p/1080p, video,
+Class 6 (C6)	6MB/s	 	Video Class 6 (V6),	720p/1080p, 4K video
+Class 10 (C10)	10MB/s	UHS Class 1 (U1)	Video Class 10 (V10)	720p/1080p/4K video
+ 	30MB/s	UHS Class 3 (U3)	Video Class 30 (V30)	1080p/4K video @ 60/120fps
+ 	60MB/s	 	Video Class 60 (V60)	8K video @ 60/120fps
+ 	90MB/s	 	Video Class 90 (V90)	8K video @ 60/120fps
+
+
+(UHS-I, UHS-II, UHS-III), data transfer rates, advancements
+
+T"Video Speed", classification, "Video Class 10" , minimum sequential, write speed, 10MB/s, (V90 -- 90MB/s) , 8K video ,120fps.
+
+
+
+Application Performance Class,
+"Application Class", (A1, A2) , read performance, 1500 IOPS, random writes, 500 IOPS, 
+
+ Random Read	,Random Write	Ideal Workload,
+Editing ,updating app data,
+
+
+Samsung Evo Select,  64GB MB-ME64GA/AM ,
+
+SanDisk Ultra 64GB SDSQUAR-064G-GN6MA, solid state drives, SSD, memory chips, Samsung-branded,
+
+adapter,  (Evo and Ultra), pricing , availability, affordablility
+
+benchmarks ,SanDisk Extreme 128GB, read and write rates.
+
+non-Select , compliance
+
+Sony , Lexar 
+
+Best High Capacity microSD Card
+SanDisk Ultra 400GB SDSQUAR-400G-GN6MA
+
+
+gigabytes , Ultra series, capacities, 400GB, flash card provider,  (95/100MB/s) , missing specification. premium per gigabyte,  ~200GB drives , 400GB Ultra,  $0.49/GB,  price per gig 
